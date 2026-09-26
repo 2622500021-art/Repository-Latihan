@@ -1,3 +1,3 @@
 # {2622500021}- Repository Latihan
-Belajar HTMLgit ip
+Belajar HTML
 ![Lily]{Lily.jpg}
